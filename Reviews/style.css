@@ -1,0 +1,88 @@
+* {
+    font-family: 'Domine', monospace;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 0px;
+}
+
+h4 {
+    font-size: 1rem;
+
+}
+
+p {
+    text-align: center;
+
+}
+
+button {
+    border-style: none;
+}
+
+img {
+    max-width: 100%;
+    margin: 10px 0px;
+    border-radius: 500px;
+    width: 200px;
+    height: auto;
+    box-shadow: 10px -10px 10px -3px rgba(180, 57, 57)
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.underline {
+    border-bottom: 5px solid #D28888;
+    margin: 0px 680px 0px 750px;
+}
+
+.review {
+    margin: 50px 400px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+
+.prev-Btn {
+    margin: 10px;
+    cursor: pointer;
+    background-color: #D28888;
+    border-style: solid;
+    border-radius: 15px;
+
+}
+
+.next-Btn {
+    margin: 10px;
+    cursor: pointer;
+    background-color: #D28888;
+    border-style: solid;
+    border-radius: 15px;
+}
+
+.random-button {
+    margin: 10px;
+    padding: 10px;
+    background-color: #D28888;
+    border-style: solid;
+    border-radius: 15px;
+}
+
+#job {
+    font-weight: 900;
+    color: #B43939;
+}
+
+#author {
+    font-size: 1.4rem;
+}
+
+#info {
+    margin: 0px 60px 30px 60px;
+}
